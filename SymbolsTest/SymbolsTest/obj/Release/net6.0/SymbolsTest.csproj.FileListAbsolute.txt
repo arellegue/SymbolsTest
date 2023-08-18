@@ -1,0 +1,12 @@
+C:\Users\v-arellegue\source\repos\SymbolsTest\SymbolsTest\SymbolsTest\bin\Release\net6.0\SymbolsTest.deps.json
+C:\Users\v-arellegue\source\repos\SymbolsTest\SymbolsTest\SymbolsTest\bin\Release\net6.0\SymbolsTest.dll
+C:\Users\v-arellegue\source\repos\SymbolsTest\SymbolsTest\SymbolsTest\bin\Release\net6.0\SymbolsTest.pdb
+C:\Users\v-arellegue\source\repos\SymbolsTest\SymbolsTest\SymbolsTest\obj\Release\net6.0\SymbolsTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-arellegue\source\repos\SymbolsTest\SymbolsTest\SymbolsTest\obj\Release\net6.0\SymbolsTest.AssemblyInfoInputs.cache
+C:\Users\v-arellegue\source\repos\SymbolsTest\SymbolsTest\SymbolsTest\obj\Release\net6.0\SymbolsTest.AssemblyInfo.cs
+C:\Users\v-arellegue\source\repos\SymbolsTest\SymbolsTest\SymbolsTest\obj\Release\net6.0\SymbolsTest.csproj.CoreCompileInputs.cache
+C:\Users\v-arellegue\source\repos\SymbolsTest\SymbolsTest\SymbolsTest\obj\Release\net6.0\SymbolsTest.sourcelink.json
+C:\Users\v-arellegue\source\repos\SymbolsTest\SymbolsTest\SymbolsTest\obj\Release\net6.0\SymbolsTest.dll
+C:\Users\v-arellegue\source\repos\SymbolsTest\SymbolsTest\SymbolsTest\obj\Release\net6.0\refint\SymbolsTest.dll
+C:\Users\v-arellegue\source\repos\SymbolsTest\SymbolsTest\SymbolsTest\obj\Release\net6.0\SymbolsTest.pdb
+C:\Users\v-arellegue\source\repos\SymbolsTest\SymbolsTest\SymbolsTest\obj\Release\net6.0\ref\SymbolsTest.dll

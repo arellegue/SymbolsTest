@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SymbolsTest</id>
+    <version>1.0.1</version>
+    <authors>SymbolsTest</authors>
+    <description>Package Description</description>
+    <repository type="git" url="https://github.com/arellegue/SymbolsTest.git" commit="cf7e502bc23f731170b98b2e71d0626e9150b17b" />
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\v-arellegue\source\repos\SymbolsTest\SymbolsTest\SymbolsTest\bin\Debug\net6.0\SymbolsTest.pdb" target="lib\net6.0\SymbolsTest.pdb" />
+  </files>
+</package>

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gJoVazWus1RMjSIo+Eee9strA+PlC3P4PW4JM6P20OdVIsUkYHiWASZYAli+9hgluiNNdd6Z1aBfL8Sfh+lKeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\v-arellegue\\source\\repos\\SymbolsTest\\SymbolsTest\\SymbolsTest\\SymbolsTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v-arellegue\\.nuget\\packages\\microsoft.build.tasks.git\\1.1.1\\microsoft.build.tasks.git.1.1.1.nupkg.sha512",
+    "C:\\Users\\v-arellegue\\.nuget\\packages\\microsoft.sourcelink.common\\1.1.1\\microsoft.sourcelink.common.1.1.1.nupkg.sha512",
+    "C:\\Users\\v-arellegue\\.nuget\\packages\\microsoft.sourcelink.github\\1.1.1\\microsoft.sourcelink.github.1.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
