@@ -9,6 +9,7 @@
 	<IncludeSymbols>true</IncludeSymbols>
 	<SymbolPackageFormat>snupkg</SymbolPackageFormat>
 	<EmbedUnTrackedSources>true</EmbedUnTrackedSources>
+	<AllowedOutputExtensionsInPackageBuildOutputFolder>$(AllowedOutputExtensionsInPackageBuildOutputFolder);.pdb</AllowedOutputExtensionsInPackageBuildOutputFolder> 
 	<PublishRepositoryUrl>true</PublishRepositoryUrl>
 	<Version>1.0.1</Version>	  
   </PropertyGroup>

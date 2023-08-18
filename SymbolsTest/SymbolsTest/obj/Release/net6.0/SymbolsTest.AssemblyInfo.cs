@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SymbolsTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.1.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.1+a1a55bc5beff71505dc0ee9b712ae7735e1f6b6d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.1+f5306f43e4a16a2316fe53df9fccbca8da1402f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("SymbolsTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SymbolsTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.1.0")]

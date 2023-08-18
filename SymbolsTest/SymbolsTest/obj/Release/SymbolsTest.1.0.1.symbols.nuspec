@@ -5,7 +5,7 @@
     <version>1.0.1</version>
     <authors>SymbolsTest</authors>
     <description>Package Description</description>
-    <repository type="git" url="https://github.com/arellegue/SymbolsTest.git" commit="a1a55bc5beff71505dc0ee9b712ae7735e1f6b6d" />
+    <repository type="git" url="https://github.com/arellegue/SymbolsTest.git" commit="f5306f43e4a16a2316fe53df9fccbca8da1402f0" />
     <dependencies>
       <group targetFramework="net6.0" />
     </dependencies>
