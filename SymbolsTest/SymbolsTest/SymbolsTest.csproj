@@ -8,8 +8,7 @@
 	<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
 	<IncludeSymbols>true</IncludeSymbols>
 	<SymbolPackageFormat>snupkg</SymbolPackageFormat>
-	<EmbedUnTrackedSources>true</EmbedUnTrackedSources>
-	<AllowedOutputExtensionsInPackageBuildOutputFolder>$(AllowedOutputExtensionsInPackageBuildOutputFolder);.pdb</AllowedOutputExtensionsInPackageBuildOutputFolder> 
+	<!--<EmbedUnTrackedSources>false</EmbedUnTrackedSources>-->
 	<PublishRepositoryUrl>true</PublishRepositoryUrl>
 	<Version>1.0.1</Version>	  
   </PropertyGroup>
@@ -25,8 +24,4 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
   </ItemGroup>
-  <ItemGroup>
-    <EmbeddedFiles Include="$(GeneratedAssemblyInfoFile)"/>
-  </ItemGroup>
-
 </Project>
